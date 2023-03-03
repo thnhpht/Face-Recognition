@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PY-223.8617.48">
+    <data-source name="Attendances" uuid="ea36c41d-c6ab-4192-8a25-3f37d2c85cd1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>thnhpht</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
